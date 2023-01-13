@@ -1,6 +1,6 @@
 
 # Arveui
-Yet anthor component library with Vue3.
+Yet another component library with Vue3.
 
 
 # Quick start
